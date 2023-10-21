@@ -1,3 +1,5 @@
+### Fork moved to https://github.com/BM85-Hz/ROM-Record-Qt
+
 # ROM-Record
 
 ## Never lose track of your games again!
